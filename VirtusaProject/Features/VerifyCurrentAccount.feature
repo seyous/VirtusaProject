@@ -1,7 +1,7 @@
 ﻿Feature: VerifyCurrentAccount
 
 
-@mytag
+
 Scenario: Verify correct page
 	Given I navigate to the URL
 	When I click on Products and Services tab
