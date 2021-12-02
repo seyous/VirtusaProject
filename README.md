@@ -13,7 +13,7 @@
 Or
 
 Get the link on github
---https://github.com/seyous/VirtusaProject
+  https://github.com/seyous/VirtusaProject
 
 
 ### Getting Started
