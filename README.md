@@ -1,7 +1,7 @@
 # VirtusaProject
 
 
-### The project was developed using BDD framework with .NET 5.0 Framework using C#, Selenium, Speclow and Nunit.
+### The project was developed using BDD framework with .NET 5.0 Framework using C#, Selenium, Specflow and Nunit.
 
 * Name:  OLUSEYI OJO
  
